@@ -1,0 +1,1 @@
+setup.py is responsible in creating an machine learning app as a package
